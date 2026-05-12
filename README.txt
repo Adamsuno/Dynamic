@@ -3,7 +3,6 @@ Adam Sunavsky & Javeria Hashmi
 
 Data Access:
 The associated dataset (.txt files) is hosted on Zenodo due to size constraints
-DOI: 10.5281/zenodo.20045171
 https://doi.org/10.5281/zenodo.20045172
 
 activations_Adam_dyn_2022_jan11.m - code for analysing activations during the task scans for static and dynamic stimuli across 45 and 47 degrees
